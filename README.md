@@ -20,7 +20,7 @@ Welcome to my Computer-Network repository! This collection showcases various net
 In this repository, I have implemented a variety of networking concepts, including:
 
 - **Hub, Switch, and Router Configurations**: Demonstrating the basic setup and functionality of these devices in a network.
-- **Network Topologies**: Various topologies such as star, ring, and mesh to illustrate different network designs.
+- **Network Topologies**: Various topologies such as star, ring, bus, mesh and Hybrid to illustrate different network designs.
 - **Static Routing**: Configuring static routes to manage traffic between different networks.
 - **Dynamic Routing Protocols**: Implementing OSPF and RIP (versions 1 and 2) for dynamic routing.
 - **DHCP Configuration**: Setting up a DHCP server to automatically assign IP addresses to devices on the network.
